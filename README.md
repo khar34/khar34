@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kha (People call me Khar)</h1>
-<h3 align="center">A software engineer student at HUTECH University of Technology</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khar34&label=Profile%20views&color=0e75b6&style=flat" alt="khar34" /> </p>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+gyze%2C+I'm+Khar;I'm+a+software+engineer+student+;at+HUTECH+University+of+Technology" alt="Typing SVG" /></a></h1> 👋
 
 - 🌱 I’m currently learning **video game development**
 
