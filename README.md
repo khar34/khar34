@@ -1,3 +1,3 @@
 hello im khar
->~~software engineer~~ cyber security student
+>~~software engineer~~ cyber ~~security~~ bully student
 
