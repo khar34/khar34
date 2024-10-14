@@ -1,7 +1,7 @@
 ## hello people :3
 ~~stupid~~ 
 - student.
-- 20.
+- 20 (2004).
 - neovim is my favorite (lazyvim).
 - windows + linux ~~mint~~, ~~arch~~ + qtile/hyprland, ubuntu.
 
