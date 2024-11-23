@@ -1,6 +1,6 @@
 # Kaaru // カール / lifeshort
 ## hello people :3
-~~stupid~~ 
+~~I maybe stupid ❤️‍🩹~~ 
 - student.
 - 20 (2004).
 - neovim enjoyer.
