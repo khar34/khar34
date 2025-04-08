@@ -4,7 +4,7 @@
 - student.
 - 20 (2004).
 - neovim enjoyer.
-- linux ~~mint~~, ~~arch~~ + qtile/hyprland, ubuntu + i3.
+- arch + hyprland.
 
 
 ![zzzzzzz](cattoastingexpanded.gif)
