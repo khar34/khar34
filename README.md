@@ -4,7 +4,7 @@
 - student.
 - 20 (2004).
 - neovim enjoyer.
-- arch + hyprland.
+- fedora.
 
 
 ![zzzzzzz](cattoastingexpanded.gif)
